@@ -37,7 +37,7 @@
 		"@material/theme": "14.0.0",
 		"@microsoft/fetch-event-source": "^2.0.1",
 		"material-symbols": "0.5.5",
-		"prismjs": "1.29.0",
+		"prismjs": "1.30.0",
 		"sanitize.css": "13.0.0",
 		"xterm": "^5.1.0",
 		"xterm-addon-fit": "^0.7.0",
